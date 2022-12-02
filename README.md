@@ -15,6 +15,7 @@ console.log('About me);
 - 👋 I’m @WAS4BI, but people call me Charlie.
 - 👀 I’m interested in computers, coding, videogames and anime.
 - 🌱 I’m currently learning web development.
+- 🖊️ My CodePen: https://codepen.io/WAS4BI
 - 📫 How to reach me: send me an email at ch.vx@aol.com
 
 <br>
