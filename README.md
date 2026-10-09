@@ -1,4 +1,4 @@
-# Charlie Murillo
+# Charlie
 
 Systems engineer in Bogotá. I build automations and the internal tools
 people use to work with them.
